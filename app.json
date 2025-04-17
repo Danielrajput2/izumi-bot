@@ -1,21 +1,21 @@
 {
-  "name": "izumi-bot",
-  "description": "Izumi a Multi Device whatsapp bot",
-  "logo": "https://i.imgur.com/Hgiamot.jpeg",
+  "name": "KING B2K ✓",
+  "description": "KING B2K ✓ Inc. a Multi Device whatsapp bot",
+  "logo": "https://ibb.co/MxBTgFb4",
   "keywords": ["whatsapp"],
-  "repository": "https://github.com/Akshay-Eypz/izumi-bot",
-  "website": "https://github.com/Akshay-Eypz/izumi-bot",
-  "success_url": "https://github.com/Akshay-Eypz/izumi-bot",
+  "repository": "https://github.com/Danielrajput2",
+  "website": "https://github.com/Danielrajput2",
+  "success_url": "https://github.com/Danielrajput2",
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "enter your session id",
+      "description": "izumi~jovisatepi",
       "required": true
     },
      "MENU_URL": {
       "description": " ",
       "required": "false",
-      "value": "https://i.imgur.com/8H2hM6D.jpeg"
+      "value": "https://ibb.co/MxBTgFb4"
      },
      "BOT_NAME": {
       "description": "enter your bot name",
