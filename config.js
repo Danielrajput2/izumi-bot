@@ -24,7 +24,7 @@ module.exports = {
   ERROR_MSG: toBool(process.env.ERROR_MSG) || false,
   LOG_MSG: toBool(process.env.LOG_MSG) || true,
   READ_CMD: toBool(process.env.READ_CMD),
-  SESSION_ID: process.env.SESSION_ID || "izumi~jovisatepi",
+  SESSION_ID: process.env.SESSION_ID || "izumi~koxivibiwe",
   MENU_URL: process.env.MENU_URL || "https://ibb.co/MxBTgFb4",
   CAPTION: process.env.CAPTION || "Created By KING B2K ✓",
   READ_MSG: toBool(process.env.READ_MSG),
